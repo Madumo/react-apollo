@@ -101,8 +101,8 @@
     "@types/redux-form": "7.0.5",
     "@types/redux-immutable": "3.0.37",
     "@types/sinon": "2.3.5",
-    "apollo-cache-inmemory": "^1.0.0",
-    "apollo-client": "^2.0.0",
+    "apollo-cache-inmemory": "1.0.0",
+    "apollo-client": "2.0.1",
     "babel-jest": "20.0.3",
     "babel-preset-react-native": "3.0.2",
     "browserify": "14.4.0",
@@ -111,11 +111,11 @@
     "colors": "1.1.2",
     "danger": "1.2.0",
     "enzyme": "3.0.0",
-    "enzyme-adapter-react-16": "^1.0.0",
+    "enzyme-adapter-react-16": "1.0.3",
     "enzyme-to-json": "1.6.0",
     "flow-bin": "0.52.0",
     "graphql": "0.11.4",
-    "graphql-tag": "^2.0.0",
+    "graphql-tag": "2.5.0",
     "immutable": "3.8.1",
     "isomorphic-fetch": "2.2.1",
     "jest": "20.0.4",
@@ -150,7 +150,7 @@
     "typescript-require": "0.2.9",
     "typings": "2.1.1",
     "uglify-js": "3.1.1",
-    "zen-observable-ts": "^0.4.4"
+    "zen-observable-ts": "0.4.4"
   },
   "dependencies": {
     "apollo-link": "^1.0.0",
